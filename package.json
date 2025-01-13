@@ -4,8 +4,8 @@
   "description": "This is the backend of the Craft My Plate, a food catering service with a pinch of tech involved.",
   "main": "backend.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "dev": "nodemon backend.js"
+    "start": "node backend.js",
+    "dev": "node backend.js"
   },
   "author": "Manuj Chaudhari",
   "license": "ISC",
